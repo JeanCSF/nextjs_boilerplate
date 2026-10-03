@@ -1,0 +1,14 @@
+{
+  "routes": {
+    "/": {
+      "baselineInitialJsBytes": 589841,
+      "maxInitialJsBytes": 650000,
+      "measuredAt": "2026-10-03"
+    },
+    "/streaming": {
+      "baselineInitialJsBytes": 589841,
+      "maxInitialJsBytes": 650000,
+      "measuredAt": "2026-10-03"
+    }
+  }
+}
