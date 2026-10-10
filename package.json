@@ -25,7 +25,7 @@
     "validate": "npm run audit && npm run typecheck && npm run lint && npm run format:check && npm test && npm run build && npm run test:security:production && npm run performance:budget"
   },
   "dependencies": {
-    "next": "16.3.8",
+    "next": "16.4.0",
     "react": "19.3.0",
     "react-dom": "19.3.0",
     "server-only": "0.0.1",
